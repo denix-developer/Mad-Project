@@ -14,9 +14,8 @@ Thanks for visiting do give it a try and let me know where I can improve.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/denix-developer/Mad-Project/blob/main/Space%20Slimes%20Mobile/Screenshots/img%201.jpg)
-
-![App Screenshot2](https://github.com/denix-developer/Mad-Project/blob/main/Space%20Slimes%20Mobile/Screenshots/img%202.png)
+![App Screenshot](https://github.com/denix-developer/Mad-Project/blob/main/Screenshots/img%201.jpg)
+![App Screenshot2](https://github.com/denix-developer/Mad-Project/blob/main/Screenshots/img%202.png)
 
 
 ## Special Thanks To
